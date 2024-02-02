@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+      
+
+}
+
+#one {
+    width: 25%;
+    height: 75px;
+    display: inline-flex;
+    align-self: center;
+    
+}
+
+.main2 {
+    height: 200px;
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    justify-content: space-between;
+
+
+}
+
+#two {
+    width: 20%;
+    display: flex;
+    align-items: center;
+     
+}
+
+#three {
+    width: 40%;
+    text-align: center;
+    margin-top: 10px;
+    font-family: Signika!important;
+    display: inline-flex;
+    align-self: center;
+     
+}
+
+#four {
+    width: 20%;
+    align-self: center;
+    padding: 3px;
+    padding-left: 15px;
+    border: solid 1px;
+    border-radius: 20px;
+    cursor: not-allowed;
+    color: #0d6db7;
+}
+
+.main3 {
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main4 {
+    
+    width: 80%;
+    height: auto;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+   
+}
+
+#five {
+    margin-top: 15px;
+    font-size: 13px;
+    width: 100%;
+    height: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    
+    
+}
